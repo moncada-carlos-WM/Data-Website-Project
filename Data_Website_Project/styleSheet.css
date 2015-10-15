@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+}
+h2 {
+    color:whitesmoke;
+}
+body{
+    background-image: url("http://pictures.topspeed.com/IMG/crop/201404/2015-toyota-camry-77_1600x0w.jpg");
+    background-size:100%;
+    text-align:center;
+}
+#navBar{
+   float:left;
+    color:blue;
+    background-color:darkred;
+    opacity: 0.6;
+}
+h3{
+    color:blue;
+    float:left;
+}
+
+#p2{
+    color:white;
+    text-align-all: center;
+    font-size: 25px;
+}
